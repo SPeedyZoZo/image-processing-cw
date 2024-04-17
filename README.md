@@ -65,11 +65,12 @@ If there are any concerns regarding the content of this repository, such as copy
 
 ## Acknowledgements
 
+I, Zaid Kareem Chughtai, programmed this project from the Demo.java code template provided by QMUL.
 This project was supervised by the faculty of Queen Mary University of London and is submitted as part of the academic requirements of the Image Processing course. The application serves as an educational tool to understand and apply basic as well as advanced image processing techniques in a practical setting.
 
 ## Note on Example Images
 
-The repository includes several example images (image1.jpg, image2.jpg, etc.), stored in various file formats to demonstrate the compatibility and functionality of the image processing operations within this application.
+The repository includes several example images (image1.jpg, image2.jpg, etc.), stored in various file formats to demonstrate the compatibility and functionality of the image processing operations within this application. The usage of these image names are hard-coded in the program. Some of the operations may not work if an image is missing. If you wish to use your own images, ensure you either update the code appropriately with the correct image names, or change the names of your images to `image1` until `image4`. 
 
 ## Contact
 
